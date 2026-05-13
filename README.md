@@ -81,30 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitmunjal479&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitmunjal479&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akshitmunjal479&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshitmunjal479&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 💡 What I'm Passionate About
 
 - 🔍 **Uncovering insights** hidden in complex, messy datasets
