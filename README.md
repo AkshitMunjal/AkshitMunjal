@@ -59,25 +59,25 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🧠 [**Project Name**](https://github.com/akshitmunjal479) | Predictive ML pipeline with preprocessing, feature engineering & model evaluation | Python, Scikit-learn |
-| 💬 [**NLP Analyzer**](https://github.com/akshitmunjal479) | Text classification & sentiment analysis using transformer models | Python, HuggingFace, NLP |
-| 🔊 [**Audio / Text AI**](https://github.com/akshitmunjal479) | AI-powered speech or text processing project | Python, Whisper / LLMs |
+| 🏠 [**House Price MLOps**](https://github.com/AkshitMunjal/house-price-mlops) | End-to-end MLOps pipeline for house price prediction with full lifecycle management | Python, Jupyter, MLOps |
+| 🏥 [**Health Insurance Predictor**](https://github.com/AkshitMunjal/ML_Project_Health_Insurance_Prediction) | AI-powered Streamlit app estimating insurance costs based on age, income & medical history | Python, XGBoost, Scikit-learn, Streamlit |
+| 🏡 [**Real Estate Price Prediction**](https://github.com/AkshitMunjal/ML_Real_Estate_Price_Prediction) | Bangalore real estate price predictor covering the full ML lifecycle with a Flask web interface | Python, Flask, Scikit-learn, HTML/CSS/JS |
+| 📊 [**A/B Testing Marketing Campaign**](https://github.com/AkshitMunjal/A-B-Testing-Marketing-Campaign) | A/B testing framework comparing Facebook vs AdWords ad performance to optimize ROI | Python, Pandas, Seaborn, Linear Regression |
 
-### 📊 Data Science & Visualization
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📈 [**BI Dashboard**](https://github.com/akshitmunjal479) | Interactive Power BI dashboard for business KPI tracking & storytelling | Power BI, SQL |
-| 🧹 [**Data Wrangling Pipeline**](https://github.com/akshitmunjal479) | End-to-end pipeline for cleaning messy datasets and automating preprocessing | Python, Pandas, NumPy |
-
-### 🌐 Web Scraping & APIs
+### 🧠 LLMs & Agentic AI
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🕷️ [**Web Scraper**](https://github.com/akshitmunjal479) | Selenium-based scraper for extracting structured data at scale | Python, Selenium |
-| ⚡ [**ML API**](https://github.com/akshitmunjal479) | FastAPI model-serving pipeline with monitoring & logging | FastAPI, MLOps, Python |
+| 🔗 [**LangChain Learning Lab**](https://github.com/AkshitMunjal/langchain-learning-lab) | Hands-on experiments with Agents, RAG pipelines, and Vector Databases using LangChain 1.x | Python, LangChain, RAG, Vector DBs |
+| 🤖 [**AI Personal Productivity Assistant**](https://github.com/AkshitMunjal/AI-Personal-Productivity-Assistant-n8n-Workflow-) | Advanced n8n-based AI assistant integrating Google Calendar, Gmail, Sheets, Tasks & Web Search | n8n, Google APIs, AI Automation |
+| 🍕 [**FoodieFlow AI Chatbot**](https://github.com/AkshitMunjal/FoodieFlow-AI-Chatbot) | AI-powered food ordering and tracking chatbot with natural language understanding | Python, Dialogflow, FastAPI, MySQL |
 
-> 💡 Replace placeholder names & links with your actual repo names and GitHub URLs!
+### 🌐 APIs & Web Scraping
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| ⚡ [**Scalable Blog API**](https://github.com/AkshitMunjal/scalable-blog-api) | Production-ready Django REST API with JWT auth, role-based access & modular architecture | Python, Django REST Framework, JWT |
+| 🕷️ [**Amazon Reviews Scraper**](https://github.com/AkshitMunjal/Amazon_Web_Scraping_Reviews) | Selenium-based scraper that automates login, search & extraction of Amazon product reviews | Python, Selenium, Pandas, CSV |
 
 ---
 
