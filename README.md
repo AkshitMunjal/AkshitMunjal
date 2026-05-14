@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Akshit Munjal 👋
-### Data Scientist · ML Engineer · AI/ML Explorer
+### Data Scientist · ML Engineer · AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=M.Tech+Student+%2B+Data+Science+Intern+%F0%9F%8E%93;Building+ML+Pipelines+from+Scratch+%F0%9F%A4%96;Data+Wrangling+%E2%86%92+Insights+%E2%86%92+Impact+%F0%9F%93%8A;Exploring+NLP%2C+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Seeking+Full-Time+AI%2FML+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=M.Tech+Student+%2B+AI+Developer+Intern+%F0%9F%8E%93;Building+ML+Pipelines+from+Scratch+%F0%9F%A4%96;Data+Wrangling+%E2%86%92+Insights+%E2%86%92+Impact+%F0%9F%93%8A;Exploring+NLP%2C+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Seeking+Full-Time+AI%2FML+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 **M.Tech student** — interning as a Data Scientist while pursuing my degree simultaneously  
+🎓 **M.Tech student** — interning as an AI Developer while pursuing my degree simultaneously  
 🤖 Passionate about turning **raw data into actionable insights** using ML, NLP, and deep learning  
 🔨 Every project on this profile is a **real-world problem I've solved**, not a tutorial clone  
 ⚙️ Love **automating workflows**, building intelligent APIs, and pushing the limits of what data can do  
