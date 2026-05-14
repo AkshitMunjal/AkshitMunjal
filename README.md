@@ -13,9 +13,9 @@
 
 🎓 **M.Tech student** — interning as an AI Developer while pursuing my degree simultaneously  
 🤖 Passionate about turning **raw data into actionable insights** using ML, NLP, and deep learning  
-🔨 Every project on this profile is a **real-world problem I've solved**, not a tutorial clone  
+🔨 Each project is built end-to-end — from data collection and preprocessing to model deployment and API integration  
 ⚙️ Love **automating workflows**, building intelligent APIs, and pushing the limits of what data can do  
-🎯 **Goal**: Land a full-time Software / AI / ML Engineer role at a product-driven company  
+🎯 **Goal**: Open to full-time opportunities in AI, ML, or Data Science excited to contribute and grow wherever the work is meaningful
 📍 Based in **India**
 
 ---
