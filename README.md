@@ -1,112 +1,70 @@
-<div align="center">
+<h1 align="center">Hi, I'm Akshit Munjal</h1>
+<h3 align="center">AI Engineer · Agentic AI · LLM Automation · MLOps</h3>
 
-# Hi there, I'm Akshit Munjal 👋
-### Data Scientist · ML Engineer · AI Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshit-munjal-81851b188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshitmunjal479@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2ea44f?style=for-the-badge" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=M.Tech+Student+%2B+AI+Developer+Intern+%F0%9F%8E%93;Building+ML+Pipelines+from+Scratch+%F0%9F%A4%96;Data+Wrangling+%E2%86%92+Insights+%E2%86%92+Impact+%F0%9F%93%8A;Exploring+NLP%2C+LLMs+%26+Deep+Learning+%F0%9F%A7%A0;Seeking+Full-Time+AI%2FML+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-🎓 **M.Tech student** — interning as an AI Developer while pursuing my degree simultaneously  
-🤖 Passionate about turning **raw data into actionable insights** using ML, NLP, and deep learning  
-🔨 Each project is built end-to-end — from data collection and preprocessing to model deployment and API integration  
-⚙️ Love **automating workflows**, building intelligent APIs, and pushing the limits of what data can do  
-🎯 **Goal**: Open to full-time opportunities in AI, ML, or Data Science excited to contribute and grow wherever the work is meaningful
-📍 Based in **India**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=600&lines=I+build+AI+agents+that+do+real+business+work;MCP+%2B+LangGraph+%2B+n8n+%2B+RAG;From+messy+data+to+deployed+systems" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### About me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### AI / ML / Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Databases & BI
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### DevOps & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **AI/ML Intern at TechnoTribes**, building AI automation for business clients (WhatsApp, Telegram, voice, ERP)
+- **M.Tech in Artificial Intelligence**, Chandigarh University (2026)
+- **3+ years in data** before AI: market research analytics, BI dashboards and data automation
+- I like turning a manual, repetitive business process into an AI system that runs on its own, with a human in the loop where it matters
 
 ---
 
-## 🚀 Featured Projects
+### Featured work
 
-### 🤖 AI / ML
-
-| Project | Description | Tech Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| 🏠 [**House Price MLOps**](https://github.com/AkshitMunjal/house-price-mlops) | End-to-end MLOps pipeline for house price prediction with full lifecycle management | Python, Jupyter, MLOps |
-| 🏥 [**Health Insurance Predictor**](https://github.com/AkshitMunjal/ML_Project_Health_Insurance_Prediction) | AI-powered Streamlit app estimating insurance costs based on age, income & medical history | Python, XGBoost, Scikit-learn, Streamlit |
-| 🏡 [**Real Estate Price Prediction**](https://github.com/AkshitMunjal/ML_Real_Estate_Price_Prediction) | Bangalore real estate price predictor covering the full ML lifecycle with a Flask web interface | Python, Flask, Scikit-learn, HTML/CSS/JS |
-| 📊 [**A/B Testing Marketing Campaign**](https://github.com/AkshitMunjal/A-B-Testing-Marketing-Campaign) | A/B testing framework comparing Facebook vs AdWords ad performance to optimize ROI | Python, Pandas, Seaborn, Linear Regression |
+| **[ai-ops-agent](https://github.com/AkshitMunjal/ai-ops-agent)** | Multi-agent system that reads orders from emails and PDFs, extracts the data and enters it into an ERP, with human approval before anything is saved | Python, LangGraph, MCP, LLMs |
+| **[ai-dental-receptionist](https://github.com/AkshitMunjal/ai-dental-receptionist)** | AI voice receptionist that answers calls, books appointments, saves leads and alerts the owner | Vapi, n8n, Google Calendar, Sheets, Telegram |
+| **[city-hospital-front-desk](https://github.com/AkshitMunjal/city-hospital-front-desk)** | Telegram bot that books doctor appointments, with rule-based safety checks for emergencies and prompt injection | n8n, LLMs, Telegram |
+| **[factory-bot](https://github.com/AkshitMunjal/factory-bot)** | AI assistant that automates a factory's order and customer operations | Python, OpenAI, Google Sheets |
+| **[whatsapp-dump-and-chat](https://github.com/AkshitMunjal/whatsapp-dump-and-chat)** | Reads WhatsApp chats and turns customer orders into a clean order sheet, with a multi-user SaaS version | Python, Playwright, FastAPI, Docker |
+| **[house-price-mlops](https://github.com/AkshitMunjal/house-price-mlops)** | Production MLOps system: DVC data versioning, CI/CD, Docker deployment, Prometheus + Grafana monitoring, drift detection and retraining | Python, DVC, Docker, GitHub Actions |
 
-### 🧠 LLMs & Agentic AI
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔗 [**LangChain Learning Lab**](https://github.com/AkshitMunjal/langchain-learning-lab) | Hands-on experiments with Agents, RAG pipelines, and Vector Databases using LangChain 1.x | Python, LangChain, RAG, Vector DBs |
-| 🤖 [**AI Personal Productivity Assistant**](https://github.com/AkshitMunjal/AI-Personal-Productivity-Assistant-n8n-Workflow-) | Advanced n8n-based AI assistant integrating Google Calendar, Gmail, Sheets, Tasks & Web Search | n8n, Google APIs, AI Automation |
-| 🍕 [**FoodieFlow AI Chatbot**](https://github.com/AkshitMunjal/FoodieFlow-AI-Chatbot) | AI-powered food ordering and tracking chatbot with natural language understanding | Python, Dialogflow, FastAPI, MySQL |
+| Project | What it does |
+|---|---|
+| [langchain-learning-lab](https://github.com/AkshitMunjal/langchain-learning-lab) | Agents, RAG pipelines and vector databases with LangChain 1.x |
+| [AI Productivity Assistant (n8n)](https://github.com/AkshitMunjal/AI-Personal-Productivity-Assistant-n8n-Workflow-) | AI assistant across Gmail, Calendar, Sheets, Tasks and web search |
+| [FoodieFlow AI Chatbot](https://github.com/AkshitMunjal/FoodieFlow-AI-Chatbot) | Food ordering and tracking chatbot (Dialogflow, FastAPI, MySQL) |
+| [scalable-blog-api](https://github.com/AkshitMunjal/scalable-blog-api) | Django REST API with JWT auth and role-based access |
+| [Health Insurance Predictor](https://github.com/AkshitMunjal/ML_Project_Health_Insurance_Prediction) | XGBoost premium predictor served with Streamlit |
+| [Real Estate Price Prediction](https://github.com/AkshitMunjal/ML_Real_Estate_Price_Prediction) | Full ML lifecycle with a Flask web app |
+| [A/B Testing Marketing Campaign](https://github.com/AkshitMunjal/A-B-Testing-Marketing-Campaign) | Facebook vs AdWords campaign analysis |
 
-### 🌐 APIs & Web Scraping
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| ⚡ [**Scalable Blog API**](https://github.com/AkshitMunjal/scalable-blog-api) | Production-ready Django REST API with JWT auth, role-based access & modular architecture | Python, Django REST Framework, JWT |
-| 🕷️ [**Amazon Reviews Scraper**](https://github.com/AkshitMunjal/Amazon_Web_Scraping_Reviews) | Selenium-based scraper that automates login, search & extraction of Amazon product reviews | Python, Selenium, Pandas, CSV |
-
----
-
-## 💡 What I'm Passionate About
-
-- 🔍 **Uncovering insights** hidden in complex, messy datasets
-- ⚙️ **Automating workflows** to eliminate repetitive manual tasks
-- 🧠 **Pushing AI/ML boundaries** — from classical models to LLMs
-- 🌍 **Building solutions** that drive real-world business impact
+</details>
 
 ---
 
-## 📬 Let's Connect
+### Tech stack
 
-<div align="center">
+**AI and LLMs:** LangGraph · LangChain · MCP · RAG · OpenAI / Gemini APIs · Vector DBs  
+**Automation:** n8n · Vapi · Playwright · Selenium · Telegram / WhatsApp bots  
+**ML and Data:** Python · Scikit-learn · XGBoost · Pandas · SQL · DVC  
+**Backend and Ops:** FastAPI · Django REST · Docker · Supabase · PostgreSQL · MySQL · Git
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-munjal-81851b188)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitmunjal479@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=notion&logoColor=white)](https://padlet.com/akshitmunjal479/projects-portfolio-ozbg80dvuk6fl9gg)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshitmunjal479)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,mysql,supabase,git,github,vscode&perline=10" />
+</p>
 
 ---
 
-<div align="center">
+### What I'm working on now
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshitmunjal479&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Open to full-time AI/ML roles, data science positions, and open source collaboration** 🚀
-
-</div>
+- Agentic workflows with **MCP + LangGraph** that plug into real business tools
+- Production-ready **n8n** automations running in Docker
