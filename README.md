@@ -2,8 +2,9 @@
 <h3 align="center">AI Engineer · Agentic AI · LLM Automation · MLOps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshit-munjal-81851b188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshitmunjal-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshitmunjal479@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://akshit-portfolio-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2ea44f?style=for-the-badge" />
 </p>
 
@@ -16,8 +17,10 @@
 ### About me
 
 - **AI/ML Intern at TechnoTribes**, building AI automation for business clients (WhatsApp, Telegram, voice, ERP)
+- Previously **AI/ML Intern at Codenomad**, trained in ML and MLOps and built production-style MLOps and RAG systems
 - **M.Tech in Artificial Intelligence**, Chandigarh University (2026)
-- **3+ years in data** before AI: market research analytics, BI dashboards and data automation
+- **2+ years in data** before AI: market research forecasting at TechSci Research and BI automation at Cyber Media India
+- **IEEE publication:** [Stress level classification using eye-tracking, GSR and heart rate signals](https://ieeexplore.ieee.org/document/11546735/) (ICSSCNA 2026)
 - I like turning a manual, repetitive business process into an AI system that runs on its own, with a human in the loop where it matters
 
 ---
@@ -53,13 +56,14 @@
 
 ### Tech stack
 
-**AI and LLMs:** LangGraph · LangChain · MCP · RAG · OpenAI / Gemini APIs · Vector DBs  
+**AI and LLMs:** LangGraph · LangChain · MCP · RAG · OpenAI · Groq · Cohere · Qdrant  
 **Automation:** n8n · Vapi · Playwright · Selenium · Telegram / WhatsApp bots  
-**ML and Data:** Python · Scikit-learn · XGBoost · Pandas · SQL · DVC  
-**Backend and Ops:** FastAPI · Django REST · Docker · Supabase · PostgreSQL · MySQL · Git
+**ML and Data:** Python · Scikit-learn · XGBoost · Pandas · SQL · Power BI  
+**MLOps and Cloud:** MLflow · DVC · DagsHub · GitHub Actions · AWS EC2/S3 · Prometheus · Grafana  
+**Backend and Ops:** FastAPI · Django REST · Docker · Redis · Supabase · PostgreSQL · MySQL · Git
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,mysql,supabase,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,aws,githubactions,grafana,prometheus,redis,postgres,mysql,supabase,git&perline=13" />
 </p>
 
 ---
