@@ -32,9 +32,11 @@
 | **[ai-ops-agent](https://github.com/AkshitMunjal/ai-ops-agent)** | Multi-agent system that reads orders from emails and PDFs, extracts the data and enters it into an ERP, with human approval before anything is saved | Python, LangGraph, MCP, LLMs |
 | **[ai-dental-receptionist](https://github.com/AkshitMunjal/ai-dental-receptionist)** | AI voice receptionist that answers calls, books appointments, saves leads and alerts the owner | Vapi, n8n, Google Calendar, Sheets, Telegram |
 | **[city-hospital-front-desk](https://github.com/AkshitMunjal/city-hospital-front-desk)** | Telegram bot that books doctor appointments, with rule-based safety checks for emergencies and prompt injection | n8n, LLMs, Telegram |
-| **[factory-bot](https://github.com/AkshitMunjal/factory-bot)** | AI assistant that automates a factory's order and customer operations | Python, OpenAI, Google Sheets |
-| **[whatsapp-dump-and-chat](https://github.com/AkshitMunjal/whatsapp-dump-and-chat)** | Reads WhatsApp chats and turns customer orders into a clean order sheet, with a multi-user SaaS version | Python, Playwright, FastAPI, Docker |
+| **factory-bot** 🔒 | AI assistant that automates a factory's order and customer operations | Python, OpenAI, Google Sheets |
+| **whatsapp-dump-and-chat** 🔒 | Reads WhatsApp chats and turns customer orders into a clean order sheet, with a multi-user SaaS version | Python, Playwright, FastAPI, Docker |
 | **[house-price-mlops](https://github.com/AkshitMunjal/house-price-mlops)** | Production MLOps system: DVC data versioning, CI/CD, Docker deployment, Prometheus + Grafana monitoring, drift detection and retraining | Python, DVC, Docker, GitHub Actions |
+
+🔒 Private client projects built at TechnoTribes. Code is not public, happy to walk through them in an interview.
 
 <details>
 <summary><b>More projects</b></summary>
