@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akshitmunjal-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshitmunjal479@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://akshit-portfolio-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2ea44f?style=for-the-badge" />
 </p>
 
