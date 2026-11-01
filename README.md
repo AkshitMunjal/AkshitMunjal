@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akshit Munjal</h1>
-<h3 align="center">AI Engineer · Agentic AI · LLM Automation · MLOps</h3>
+<h3 align="center">AI Engineer · Agentic AI · LLM Automation · MLOps · LLMOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshitmunjal-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
